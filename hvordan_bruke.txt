@@ -1,0 +1,6 @@
+Hvordan kjøre koden: 
+1. Kjør train.py
+2. Kjør predict.py
+
+Tillegg:
+Om ønskelig kan man kjøre data_exploration.py
